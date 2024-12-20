@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yas1724
 - 👀 I’m interested in Software Devlopment
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on open source projects based on java
+- 💞️ I’m looking to collaborate on open source projects based on web-dev (MERN)
 - 📫 How to reach me yaz1256715@gmail.com
 
 <!---
