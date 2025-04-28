@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yashraj Singh</h1>
-<h3 align="center">Full time learner part time coder ;)</h3>
+<h3 align="center">Full time learner part time c̶o̶d̶e̶r̶ ;)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yas1724&label=Profile%20views&color=0e75b6&style=flat" alt="yas1724" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **node js**
 
-- 💬 Ask me about **javascript , react , nodejs**
+- 💬 Ask me about **nothing!**
 
 - 📫 How to reach me **yaz1256715@gmail.com**
 
-- ⚡ Fun fact **I play basketball :)**
+- ⚡ Fun fact **I have a laptop:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
