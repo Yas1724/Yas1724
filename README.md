@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I have a laptop:)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/yashraj-singh-00a5a52ab</h3>
 <p align="left">
 </p>
 
